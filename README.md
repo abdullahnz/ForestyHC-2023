@@ -6,12 +6,15 @@
 
 ## List of Problems:
 
-1. Cryptography
-   - Vigenere **(Easy)**
-   - RSA **(Easy)**
-   - Xorrr **(Medium)**
-   - OFB **(Medium - Hard)**
-2. Binary Exploitation
-   - TurboLike: Login Portal **(Easy)**
-   - TurboChat: Development **(Medium)**
-   - TurboSort **(Hard)**
+### Cryptography
+
+- Vigenere **(Easy)**
+- RSA **(Easy)**
+- Xorrr **(Medium)**
+- OFB **(Medium - Hard)**
+
+### Binary Exploitation
+
+- TurboLike: Login Portal **(Easy)**
+- TurboChat: Development **(Medium)**
+- TurboSort **(Hard)**
