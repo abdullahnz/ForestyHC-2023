@@ -14,7 +14,8 @@
 - OFB **(Medium - Hard)**
 
 ### Binary Exploitation
-
+- Shellcode **(Easy)**
+- Rill or Fekk **(Easy)**
 - TurboLike: Login Portal **(Easy)**
 - TurboChat: Development **(Medium)**
 - TurboSort **(Hard)**
